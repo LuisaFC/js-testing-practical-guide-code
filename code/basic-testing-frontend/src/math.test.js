@@ -29,4 +29,4 @@ it('should yield correct sum if an array of numeric string values is provided', 
   const result = add(numbers)
 
   expect(result).toBe(resultExpeceted)
-})
+})  
